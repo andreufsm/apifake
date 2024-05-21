@@ -1,0 +1,60 @@
+{
+    "totalPassengers": 6,
+    "totalPages": 6,
+    "data": [
+        {
+            "_id": "5eef7f1bdfaf515ddc9feade",
+            "name": "Saman Jeewantha",
+            "trips": 500,
+            "airline": [
+                {
+                    "id": 4,
+                    "name": "Emirates",
+                    "country": "Dubai",
+                    "logo": "<https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Emirates_logo.svg/150px-Emirates_logo.svg.png>",
+                    "slogan": "From Dubai to destinations around the world.",
+                    "head_quaters": "Garhoud, Dubai, United Arab Emirates",
+                    "website": "www.emirates.com/",
+                    "established": "1985"
+                }
+            ],
+            "__v": 0
+        },
+{
+            "_id": "5eef7f9fdfaf515ddc9feae6",
+            "name": "Oliver Brown",
+            "trips": 380,
+            "airline": [
+                {
+                    "id": 9,
+                    "name": "British Airways",
+                    "country": "United Kingdom",
+                    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/8/86/British_Airways_Logo.svg/150px-British_Airways_Logo.svg.png",
+                    "slogan": "To Fly. To Serve.",
+                    "head_quaters": "Waterside, Harmondsworth, England",
+                    "website": "www.britishairways.com/",
+                    "established": "1974"
+                }
+            ],
+            "__v": 0
+        },
+        {
+            "_id": "5eef7faffdaf515ddc9feae7",
+            "name": "Emily Davis",
+            "trips": 275,
+            "airline": [
+                {
+                    "id": 10,
+                    "name": "Qantas",
+                    "country": "Australia",
+                    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/Qantas_logo_2016.svg/150px-Qantas_logo_2016.svg.png",
+                    "slogan": "The Spirit of Australia.",
+                    "head_quaters": "Mascot, New South Wales, Australia",
+                    "website": "www.qantas.com.au/",
+                    "established": "1920"
+                }
+            ],
+            "__v": 0
+        }
+    ]
+}
